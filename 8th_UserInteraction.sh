@@ -1,18 +1,24 @@
 #!/bin/bash
 
-read firstName
-echo "Your Name is :- $firstName"
-# Tejas
-# Your Name is :- Tejas
+read  firstName1
+echo "Your Name is :- $firstName1"
+# Tejas\Joshi
+# Your Name is :- TejasJoshi
+
+read -r firstName2
+echo "Your Name is :- $firstName2"
+# Tejas\Joshi
+# Your Name is :- Tejas\Joshi
+
 
 echo "Please Enter your Name :- "
-read fullName
+read -r fullName
 echo "Your Name is :- $fullName"
 # Please Enter your Name :-
 # Tejas Joshi
 # Your Name is :- Tejas Joshi
 
-read -p "Please Enter Your Name :- " name
+read -r -p "Please Enter Your Name :- " name
 echo "Your Name is :- $name"
 # Please Enter Your Name :- Tejas Joshi
 # Your Name is :- Tejas Joshi
