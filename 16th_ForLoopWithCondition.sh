@@ -17,7 +17,7 @@ done
 
 
 # Numeric Values in Array
-for (( i=0; i<3; i++ ))
+for (( i=0; i<3; i++ ))              # <--- Arithmetic Operation hence (()) double parenthesis
 do
   echo "Value of Array is :- ${myArray[$i]}"
 done
@@ -27,7 +27,7 @@ done
 
 
 # String Values in Array
-for (( i=3; i<$length; i++ ))
+for (( i=3; i<$length; i++ ))       # <--- Arithmetic Operation hence (()) double parenthesis
 do
   echo "Value of Array is :- ${myArray[$i]}"
 done
