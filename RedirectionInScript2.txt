@@ -1,0 +1,4 @@
+Current Directory is :- /home/tejas-joshi/Documents/GitHub/Shell_Scripting
+Current Date is :- Sun Jan 19 10:41:52 PM IST 2025
+Random Variable is :- 20133
+Current User ID is :- 1000
