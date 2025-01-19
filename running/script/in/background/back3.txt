@@ -1,0 +1,8 @@
+nohup: ignoring input
+Current Date is :- Sun Jan 19 11:56:33 PM IST 2025
+Current Time is :- 23:56:33
+Hostname is :- tejas-joshi-HP-Laptop-15s-fr5xxx
+nohup: ignoring input
+Current Date is :- Sun Jan 19 11:56:35 PM IST 2025
+Current Time is :- 23:56:35
+Hostname is :- tejas-joshi-HP-Laptop-15s-fr5xxx

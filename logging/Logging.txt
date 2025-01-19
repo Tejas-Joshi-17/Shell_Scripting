@@ -1,0 +1,5 @@
+If you want to maintain the logging for your script, you can use logger in your script.
+
+You can find the logs under - /var/log/syslog
+
+Example :-  logger echo "Hey Buddy"

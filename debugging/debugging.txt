@@ -1,0 +1,5 @@
+1) If you want to enable debugging of script then add bellow command on top of script
+        set -x
+
+2) If you want to exit from script when a command fail then add bellow command on top of script
+        set -e

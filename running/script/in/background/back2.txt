@@ -1,0 +1,4 @@
+nohup: ignoring input
+Current Date is :- Sun Jan 19 11:56:18 PM IST 2025
+Current Time is :- 23:56:18
+Hostname is :- tejas-joshi-HP-Laptop-15s-fr5xxx

@@ -1,0 +1,7 @@
+If you want to run script in background then you can use bellow command
+
+nohup ./script.sh &             :-  nohup.out File created in current directory & output is store in that file appending its text
+nohup ./script.sh &> name.txt   :-  name.txt File created in current directory & output is store in that file replacing its text
+nohup ./script.sh &> name.txt   :-  name.txt File created in current directory & output is store in that file appending its text
+
+Note :- Execution permission must be given to script.sh file.
